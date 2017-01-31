@@ -1,6 +1,8 @@
 statsd-elasticsearch-backend
 ============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/groupby/statsd-elasticsearch-backend.svg)](https://greenkeeper.io/)
+
 Elasticsearch backend for statsd
 
 ## Overview
